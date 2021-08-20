@@ -1,0 +1,10 @@
+.widgets{
+    flex: 0.2;
+    top: 80px;
+    position: sticky;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    height: fit-content;
+    padding-bottom: 10px;
+}
